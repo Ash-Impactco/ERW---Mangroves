@@ -1,0 +1,4 @@
+project_name,latitude,longitude,region,co2_removal_mt,operator
+Madeira ERW,32.76,-16.96,Madeira,0.5,ExampleOrg
+Azores ERW,37.78,-25.50,Azores,0.7,ExampleOrg
+India ERW,20.0,78.0,India,1.2,ExampleOrg 

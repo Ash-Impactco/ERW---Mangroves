@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"region": "Madeira"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-16.96, 32.76]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"region": "Azores"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-25.50, 37.78]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"region": "India"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.0, 20.0]
+      }
+    }
+  ]
+} 
