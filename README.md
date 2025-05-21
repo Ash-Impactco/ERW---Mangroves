@@ -1,51 +1,80 @@
-# Enhanced Rock Weathering (ERW) Dashboard & Analysis Toolkit
+# Enhanced Rock Weathering (ERW) Dashboard
 
-This project provides a modular, interactive dashboard and analysis toolkit for Enhanced Rock Weathering (ERW) and global carbon removal, inspired by [CDR.fyi's Carbon Removal Map](https://www.cdr.fyi/carbon-removal-map). It includes mapping, regional analysis, economic assessment, case studies, machine learning, and future scenario modeling.
+An interactive dashboard for analyzing and visualizing Enhanced Rock Weathering (ERW) data, including geological features, climate data, and volcanic areas.
 
 ## Features
-- Interactive global map showing ERW potential regions
-- Regional analysis with detailed metrics
-- Economic assessment under different carbon pricing scenarios
-- ROI calculations for different regions
-- Time horizon projections
-- Case studies (Madeira, Azores)
-- Machine learning prediction for basalt properties
-- Future scenario modeling (Brightway2 + premise)
 
-## Folder Structure
-```
-dashboard/      # Main Streamlit dashboard
-data/           # Project and region data (CSV, GeoJSON)
-case_studies/   # Scripts for regional case studies
-ml_prediction/  # ML model training and prediction
-scenarios/      # Future scenario analysis notebooks
-research/       # Literature and data sources
+- **Interactive Geological Map**: Visualize geological features with detailed information about age, type, and mineral composition
+- **Climate Data Integration**: Overlay climate zones with temperature and rainfall information
+- **Volcanic Areas Analysis**: Map and analyze volcanic regions and their characteristics
+- **Data Analysis Tools**: Comprehensive analysis of geological features, climate correlations, and mineral compositions
+- **Interactive Visualizations**: Dynamic charts and maps for better data understanding
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone [your-repository-url]
+cd erw-dashboard
 ```
 
-## Quick Start
-```bashb
-git clone https://github.com/Ash-Impactco/ERW.git
-cd ERW
+2. Create a virtual environment:
+```bash
+python -m venv .venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+```
+
+3. Install dependencies:
+```bash
 pip install -r requirements.txt
-streamlit run dashboard/app.py
 ```
 
 ## Usage
-- **Global Map:** Visualize ERW projects and regions on an interactive map.
-- **Regional Analysis:** Explore CO₂ sequestration and economic metrics by region.
-- **Economic Assessment:** Adjust carbon price and see impact on viability and ROI.
-- **Case Studies:** Analyze basalt mass and ERW potential for Madeira and Azores.
-- **ML Prediction:** Upload geochemical data for machine learning-based predictions.
-- **Future Scenarios:** Open `scenarios/future_scenarios.ipynb` in Jupyter for scenario modeling.
 
-## Data Sources & References
-- [CDR.fyi Carbon Removal Map](https://www.cdr.fyi/carbon-removal-map)
-- [PEESEgroup/Enhanced-Rock-Weathering](https://github.com/PEESEgroup/Enhanced-Rock-Weathering)
-- [Madeiran basalt characterization (Alves et al., 2017)](https://research.unl.pt/ws/portalfiles/portal/3160539/RI_Alves_Faria_Simao_Madeiran_basalt_characterizarion_JBE2017_manuscript.pdf)
-- [USGS MRData](https://mrdata.usgs.gov/)
+1. Run the geological visualization:
+```bash
+streamlit run arcgis_visualization.py
+```
+
+2. Run the volcanic areas visualization:
+```bash
+streamlit run volcanic_areas.py
+```
+
+## Project Structure
+
+```
+erw-dashboard/
+├── arcgis_visualization.py    # Geological and climate data visualization
+├── volcanic_areas.py         # Volcanic regions analysis
+├── requirements.txt          # Project dependencies
+└── README.md                # Project documentation
+```
+
+## Dependencies
+
+- streamlit
+- folium
+- geopandas
+- pandas
+- requests
+- branca
+- numpy
 
 ## Contributing
-Contributions are welcome! Please open issues or submit pull requests.
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ## License
-This project is licensed under the MIT License.
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+
+- ArcGIS REST API for geological and climate data
+- Streamlit for the web application framework
+- Folium for interactive mapping
