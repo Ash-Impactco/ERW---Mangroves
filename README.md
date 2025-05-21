@@ -23,7 +23,7 @@ research/       # Literature and data sources
 ```
 
 ## Quick Start
-```bash
+```bashb
 git clone https://github.com/Ash-Impactco/ERW.git
 cd ERW
 pip install -r requirements.txt
