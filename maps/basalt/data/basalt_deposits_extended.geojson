@@ -1,0 +1,306 @@
+{
+  "type": "FeatureCollection",
+  "name": "Basalt Deposits",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Francisco Area",
+        "type": "basalt",
+        "description": "Basalt deposits in the San Francisco Bay Area",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194, 37.7749]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Singapore Area",
+        "type": "basalt",
+        "description": "Basalt deposits near Singapore",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8198, 1.3521]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Diego Area",
+        "type": "basalt",
+        "description": "Basalt deposits in Southern California",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1611, 32.7157]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tokyo Area",
+        "type": "basalt",
+        "description": "Basalt deposits in the Tokyo region",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.7692, 35.6895]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New York City",
+        "type": "basalt",
+        "description": "Basalt deposits in the New York metropolitan area",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0060, 40.7128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iceland",
+        "type": "basalt",
+        "description": "Basaltic lava fields",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-21.8954, 64.9630]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hawaii",
+        "type": "basalt",
+        "description": "Basaltic volcanoes",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-155.9322, 19.4468]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arizona",
+        "type": "basalt",
+        "description": "Basaltic lava flows",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.6712, 34.2219]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Washington",
+        "type": "basalt",
+        "description": "Columbia River Basalt Group",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.7407, 46.7299]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregon",
+        "type": "basalt",
+        "description": "Basaltic lava flows",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.6764, 43.8041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nevada",
+        "type": "basalt",
+        "description": "Basaltic lava flows",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.4637, 39.1653]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Idaho",
+        "type": "basalt",
+        "description": "Basaltic lava flows",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-114.4788, 43.6137]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Utah",
+        "type": "basalt",
+        "description": "Basaltic lava flows",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.8624, 39.3208]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Mexico",
+        "type": "basalt",
+        "description": "Basaltic lava flows",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.6496, 35.6872]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colorado",
+        "type": "basalt",
+        "description": "Basaltic lava flows",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.3111, 39.7392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montana",
+        "type": "basalt",
+        "description": "Basaltic lava flows",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.4543, 46.8797]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wyoming",
+        "type": "basalt",
+        "description": "Basaltic lava flows",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.3025, 43.0759]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canada",
+        "type": "basalt",
+        "description": "Basaltic lava flows",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-114.0719, 53.5461]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mexico",
+        "type": "basalt",
+        "description": "Basaltic lava flows",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-102.5528, 23.6345]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chile",
+        "type": "basalt",
+        "description": "Basaltic volcanoes",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.6483, -33.4489]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peru",
+        "type": "basalt",
+        "description": "Basaltic volcanoes",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0428, -12.0464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brazil",
+        "type": "basalt",
+        "description": "Basaltic lava flows",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.9292, -15.7801]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Argentina",
+        "type": "basalt",
+        "description": "Basaltic lava flows",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3816, -34.6037]
+      }
+    }
+  ]
+}

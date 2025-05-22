@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "name": "Mangrove Areas",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Texas Coast",
+        "type": "mangrove",
+        "description": "Mangrove forests along the Texas Gulf Coast",
+        "source": "Global Mangrove Watch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.1208, 25.7673]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Singapore",
+        "type": "mangrove",
+        "description": "Mangrove forests in Singapore",
+        "source": "Global Mangrove Watch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8198, 1.3521]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manila Bay",
+        "type": "mangrove",
+        "description": "Mangrove forests in Manila Bay",
+        "source": "Global Mangrove Watch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.9842, 14.5995]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Darwin",
+        "type": "mangrove",
+        "description": "Mangrove forests in Northern Australia",
+        "source": "Global Mangrove Watch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [131.0445, -12.4634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miami",
+        "type": "mangrove",
+        "description": "Mangrove forests in Florida",
+        "source": "Global Mangrove Watch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.1918, 25.7617]
+      }
+    }
+  ]
+}

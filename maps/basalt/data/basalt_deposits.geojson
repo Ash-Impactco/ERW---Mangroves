@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "name": "Basalt Deposits",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Francisco Area",
+        "type": "basalt",
+        "description": "Basalt deposits in the San Francisco Bay Area",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194, 37.7749]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Singapore Area",
+        "type": "basalt",
+        "description": "Basalt deposits near Singapore",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8198, 1.3521]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Diego Area",
+        "type": "basalt",
+        "description": "Basalt deposits in Southern California",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1611, 32.7157]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tokyo Area",
+        "type": "basalt",
+        "description": "Basalt deposits in the Tokyo region",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.7692, 35.6895]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New York City",
+        "type": "basalt",
+        "description": "Basalt deposits in the New York metropolitan area",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0060, 40.7128]
+      }
+    }
+  ]
+}

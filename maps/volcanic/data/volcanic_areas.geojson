@@ -1,0 +1,98 @@
+{
+  "type": "FeatureCollection",
+  "name": "Volcanic Areas",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kilauea",
+        "type": "volcano",
+        "description": "Active volcano in Hawaii",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-155.282, 19.421]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Fuji",
+        "type": "volcano",
+        "description": "Active volcano in Japan",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [140.75, 35.89]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yellowstone",
+        "type": "volcano",
+        "description": "Supervolcano in Wyoming, USA",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-114.41, 44.42]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Merapi",
+        "type": "volcano",
+        "description": "Active volcano in Indonesia",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.49, 6.16]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cotopaxi",
+        "type": "volcano",
+        "description": "Active volcano in Ecuador",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.15, -1.83]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Hood",
+        "type": "volcano",
+        "description": "Active volcano in Oregon, USA",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.1752, 45.3742]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uluru/Ayers Rock",
+        "type": "volcano",
+        "description": "Ancient volcanic formation in Australia",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.1644, -19.4421]
+      }
+    }
+  ]
+}

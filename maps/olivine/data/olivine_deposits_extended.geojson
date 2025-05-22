@@ -1,0 +1,319 @@
+{
+  "type": "FeatureCollection",
+  "name": "Olivine Deposits",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sydney Area",
+        "type": "olivine",
+        "description": "Olivine deposits in the Sydney region",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.2093, -33.8688]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seoul Area",
+        "type": "olivine",
+        "description": "Olivine deposits near Seoul",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.9780, 37.5665]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hong Kong",
+        "type": "olivine",
+        "description": "Olivine deposits in Hong Kong",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.1772, 22.2783]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tokyo Area",
+        "type": "olivine",
+        "description": "Olivine deposits in the Tokyo region",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.6917, 35.6895]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jakarta",
+        "type": "olivine",
+        "description": "Olivine deposits in Jakarta",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.8456, -6.2088]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "China",
+        "type": "olivine",
+        "description": "Olivine deposits in China",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.4074, 39.9042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "India",
+        "type": "olivine",
+        "description": "Olivine deposits in India",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.2090, 28.7044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Africa",
+        "type": "olivine",
+        "description": "Olivine deposits in South Africa",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.2336, -25.7313]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brazil",
+        "type": "olivine",
+        "description": "Olivine deposits in Brazil",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.9292, -15.7801]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canada",
+        "type": "olivine",
+        "description": "Olivine deposits in Canada",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-114.0719, 53.5461]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mexico",
+        "type": "olivine",
+        "description": "Olivine deposits in Mexico",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-102.5528, 23.6345]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chile",
+        "type": "olivine",
+        "description": "Olivine deposits in Chile",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.6483, -33.4489]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peru",
+        "type": "olivine",
+        "description": "Olivine deposits in Peru",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0428, -12.0464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Argentina",
+        "type": "olivine",
+        "description": "Olivine deposits in Argentina",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3816, -34.6037]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Australia",
+        "type": "olivine",
+        "description": "Olivine deposits in Australia",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [149.1281, -35.2809]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Zealand",
+        "type": "olivine",
+        "description": "Olivine deposits in New Zealand",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.7667, -41.2869]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Russia",
+        "type": "olivine",
+        "description": "Olivine deposits in Russia",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.6173, 55.7558]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Norway",
+        "type": "olivine",
+        "description": "Olivine deposits in Norway",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.7522, 59.9139]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sweden",
+        "type": "olivine",
+        "description": "Olivine deposits in Sweden",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.0649, 59.3326]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Finland",
+        "type": "olivine",
+        "description": "Olivine deposits in Finland",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9384, 60.1699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Germany",
+        "type": "olivine",
+        "description": "Olivine deposits in Germany",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4049, 52.5200]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "France",
+        "type": "olivine",
+        "description": "Olivine deposits in France",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3522, 48.8566]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spain",
+        "type": "olivine",
+        "description": "Olivine deposits in Spain",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.7038, 40.4165]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Italy",
+        "type": "olivine",
+        "description": "Olivine deposits in Italy",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.4964, 41.9028]
+      }
+    }
+  ]
+}

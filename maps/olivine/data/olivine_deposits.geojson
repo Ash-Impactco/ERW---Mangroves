@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "name": "Olivine Deposits",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sydney Area",
+        "type": "olivine",
+        "description": "Olivine deposits in the Sydney region",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.2093, -33.8688]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seoul Area",
+        "type": "olivine",
+        "description": "Olivine deposits near Seoul",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.9780, 37.5665]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hong Kong",
+        "type": "olivine",
+        "description": "Olivine deposits in Hong Kong",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.1772, 22.2783]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tokyo Area",
+        "type": "olivine",
+        "description": "Olivine deposits in the Tokyo region",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.6917, 35.6895]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jakarta",
+        "type": "olivine",
+        "description": "Olivine deposits in Jakarta",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.8456, -6.2088]
+      }
+    }
+  ]
+}
