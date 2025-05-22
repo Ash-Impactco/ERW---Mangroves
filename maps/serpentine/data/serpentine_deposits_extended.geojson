@@ -1,0 +1,319 @@
+{
+  "type": "FeatureCollection",
+  "name": "Serpentine Deposits",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New York City",
+        "type": "serpentine",
+        "description": "Serpentine deposits in the New York metropolitan area",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0060, 40.7128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tokyo Area",
+        "type": "serpentine",
+        "description": "Serpentine deposits in the Tokyo region",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.6917, 35.6895]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los Angeles",
+        "type": "serpentine",
+        "description": "Serpentine deposits in Southern California",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2437, 34.0522]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Singapore",
+        "type": "serpentine",
+        "description": "Serpentine deposits near Singapore",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8198, 1.3521]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canberra",
+        "type": "serpentine",
+        "description": "Serpentine deposits in the Australian Capital Territory",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [149.1300, -35.2809]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "China",
+        "type": "serpentine",
+        "description": "Serpentine deposits in China",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.4074, 39.9042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "India",
+        "type": "serpentine",
+        "description": "Serpentine deposits in India",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.2090, 28.7044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Africa",
+        "type": "serpentine",
+        "description": "Serpentine deposits in South Africa",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.2336, -25.7313]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brazil",
+        "type": "serpentine",
+        "description": "Serpentine deposits in Brazil",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.9292, -15.7801]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canada",
+        "type": "serpentine",
+        "description": "Serpentine deposits in Canada",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-114.0719, 53.5461]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mexico",
+        "type": "serpentine",
+        "description": "Serpentine deposits in Mexico",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-102.5528, 23.6345]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chile",
+        "type": "serpentine",
+        "description": "Serpentine deposits in Chile",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.6483, -33.4489]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peru",
+        "type": "serpentine",
+        "description": "Serpentine deposits in Peru",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0428, -12.0464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Argentina",
+        "type": "serpentine",
+        "description": "Serpentine deposits in Argentina",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3816, -34.6037]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Australia",
+        "type": "serpentine",
+        "description": "Serpentine deposits in Australia",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [149.1281, -35.2809]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Zealand",
+        "type": "serpentine",
+        "description": "Serpentine deposits in New Zealand",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.7667, -41.2869]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Russia",
+        "type": "serpentine",
+        "description": "Serpentine deposits in Russia",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.6173, 55.7558]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Norway",
+        "type": "serpentine",
+        "description": "Serpentine deposits in Norway",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.7522, 59.9139]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sweden",
+        "type": "serpentine",
+        "description": "Serpentine deposits in Sweden",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.0649, 59.3326]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Finland",
+        "type": "serpentine",
+        "description": "Serpentine deposits in Finland",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9384, 60.1699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Germany",
+        "type": "serpentine",
+        "description": "Serpentine deposits in Germany",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4049, 52.5200]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "France",
+        "type": "serpentine",
+        "description": "Serpentine deposits in France",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3522, 48.8566]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spain",
+        "type": "serpentine",
+        "description": "Serpentine deposits in Spain",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.7038, 40.4165]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Italy",
+        "type": "serpentine",
+        "description": "Serpentine deposits in Italy",
+        "source": "USGS Mineral Resources Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.4964, 41.9028]
+      }
+    }
+  ]
+}

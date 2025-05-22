@@ -1,0 +1,332 @@
+{
+  "type": "FeatureCollection",
+  "name": "Mangrove Areas",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Texas Coast",
+        "type": "mangrove",
+        "description": "Mangrove forests along the Texas Gulf Coast",
+        "source": "USGS National Wetlands Research Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.1208, 25.7673]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Singapore",
+        "type": "mangrove",
+        "description": "Mangrove forests in Singapore",
+        "source": "USGS National Wetlands Research Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8198, 1.3521]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manila Bay",
+        "type": "mangrove",
+        "description": "Mangrove forests in Manila Bay",
+        "source": "USGS National Wetlands Research Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.9842, 14.5995]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Darwin",
+        "type": "mangrove",
+        "description": "Mangrove forests in Northern Territory",
+        "source": "USGS National Wetlands Research Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [130.8400, -12.4634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miami",
+        "type": "mangrove",
+        "description": "Mangrove forests in Everglades",
+        "source": "USGS National Wetlands Research Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.1918, 25.7617]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Everglades",
+        "type": "mangrove",
+        "description": "Mangrove forests in Everglades National Park",
+        "source": "USGS National Wetlands Research Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.9246, 25.3217]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuala Lumpur",
+        "type": "mangrove",
+        "description": "Mangrove forests in Malaysia",
+        "source": "USGS National Wetlands Research Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.7136, 3.1478]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hong Kong",
+        "type": "mangrove",
+        "description": "Mangrove forests in Hong Kong",
+        "source": "USGS National Wetlands Research Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.1714, 22.2804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shanghai",
+        "type": "mangrove",
+        "description": "Mangrove forests in China",
+        "source": "USGS National Wetlands Research Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.4737, 31.2304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taichung",
+        "type": "mangrove",
+        "description": "Mangrove forests in Taiwan",
+        "source": "USGS National Wetlands Research Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.3361, 23.6978]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beijing",
+        "type": "mangrove",
+        "description": "Mangrove forests in China",
+        "source": "USGS National Wetlands Research Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.4074, 39.9042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wuhan",
+        "type": "mangrove",
+        "description": "Mangrove forests in China",
+        "source": "USGS National Wetlands Research Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.3052, 30.5927]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indonesia",
+        "type": "mangrove",
+        "description": "Mangrove forests in Indonesia",
+        "source": "USGS National Wetlands Research Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.9213, -0.7893]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thailand",
+        "type": "mangrove",
+        "description": "Mangrove forests in Thailand",
+        "source": "USGS National Wetlands Research Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.5018, 13.7563]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vietnam",
+        "type": "mangrove",
+        "description": "Mangrove forests in Vietnam",
+        "source": "USGS National Wetlands Research Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.8412, 21.0285]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cambodia",
+        "type": "mangrove",
+        "description": "Mangrove forests in Cambodia",
+        "source": "USGS National Wetlands Research Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.9909, 11.5670]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Myanmar",
+        "type": "mangrove",
+        "description": "Mangrove forests in Myanmar",
+        "source": "USGS National Wetlands Research Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [96.1951, 16.8683]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "India",
+        "type": "mangrove",
+        "description": "Mangrove forests in India",
+        "source": "USGS National Wetlands Research Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.2090, 28.7044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bangladesh",
+        "type": "mangrove",
+        "description": "Mangrove forests in Bangladesh",
+        "source": "USGS National Wetlands Research Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [90.4122, 23.8103]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pakistan",
+        "type": "mangrove",
+        "description": "Mangrove forests in Pakistan",
+        "source": "USGS National Wetlands Research Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [67.0011, 24.8607]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sri Lanka",
+        "type": "mangrove",
+        "description": "Mangrove forests in Sri Lanka",
+        "source": "USGS National Wetlands Research Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.0000, 7.0000]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malaysia",
+        "type": "mangrove",
+        "description": "Mangrove forests in Malaysia",
+        "source": "USGS National Wetlands Research Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.6869, 3.1390]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunei",
+        "type": "mangrove",
+        "description": "Mangrove forests in Brunei",
+        "source": "USGS National Wetlands Research Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.9500, 4.5833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Australia",
+        "type": "mangrove",
+        "description": "Mangrove forests in Northern Australia",
+        "source": "USGS National Wetlands Research Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135.1944, -27.4634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Zealand",
+        "type": "mangrove",
+        "description": "Mangrove forests in New Zealand",
+        "source": "USGS National Wetlands Research Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.7667, -41.2869]
+      }
+    }
+  ]
+}

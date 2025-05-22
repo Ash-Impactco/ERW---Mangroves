@@ -1,0 +1,332 @@
+{
+  "type": "FeatureCollection",
+  "name": "Volcanic Areas",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kilauea",
+        "type": "volcano",
+        "description": "Active shield volcano in Hawaii",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-155.282, 19.421]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Fuji",
+        "type": "volcano",
+        "description": "Stratovolcano in Japan",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.75, 35.36]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yellowstone",
+        "type": "volcano",
+        "description": "Supervolcano in Wyoming",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.85, 44.42]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Merapi",
+        "type": "volcano",
+        "description": "Active stratovolcano in Indonesia",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.44, -7.54]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cotopaxi",
+        "type": "volcano",
+        "description": "Stratovolcano in Ecuador",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.15, -1.83]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Hood",
+        "type": "volcano",
+        "description": "Stratovolcano in Oregon",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.6762, 45.3742]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uluru/Ayers Rock",
+        "type": "volcano",
+        "description": "Eroded volcanic remnant in Australia",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [131.0344, -25.3444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Adams",
+        "type": "volcano",
+        "description": "Stratovolcano in Washington",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.4792, 46.2008]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount St. Helens",
+        "type": "volcano",
+        "description": "Active stratovolcano in Washington",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.1932, 46.1938]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Rainier",
+        "type": "volcano",
+        "description": "Stratovolcano in Washington",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.7583, 46.8523]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Etna",
+        "type": "volcano",
+        "description": "Active stratovolcano in Italy",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.0056, 37.7484]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Vesuvius",
+        "type": "volcano",
+        "description": "Stratovolcano in Italy",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.4721, 40.8233]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Pinatubo",
+        "type": "volcano",
+        "description": "Stratovolcano in Philippines",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.3583, 15.1350]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Mayon",
+        "type": "volcano",
+        "description": "Stratovolcano in Philippines",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.6875, 13.2500]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Agung",
+        "type": "volcano",
+        "description": "Stratovolcano in Indonesia",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.5000, -8.3417]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Tambora",
+        "type": "volcano",
+        "description": "Stratovolcano in Indonesia",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.9500, -8.2417]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Cameroon",
+        "type": "volcano",
+        "description": "Stratovolcano in Cameroon",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.1100, 4.1000]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Nyiragongo",
+        "type": "volcano",
+        "description": "Stratovolcano in Democratic Republic of Congo",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.2500, -1.5200]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Nyamuragira",
+        "type": "volcano",
+        "description": "Stratovolcano in Democratic Republic of Congo",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.2000, -1.4000]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Kilimanjaro",
+        "type": "volcano",
+        "description": "Stratovolcano in Tanzania",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.3467, -3.0667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Kenya",
+        "type": "volcano",
+        "description": "Stratovolcano in Kenya",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.3000, -0.1000]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Elgon",
+        "type": "volcano",
+        "description": "Stratovolcano in Uganda",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.2500, 1.0000]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Cameroon",
+        "type": "volcano",
+        "description": "Stratovolcano in Cameroon",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.1100, 4.1000]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Nyiragongo",
+        "type": "volcano",
+        "description": "Stratovolcano in Democratic Republic of Congo",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.2500, -1.5200]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Nyamuragira",
+        "type": "volcano",
+        "description": "Stratovolcano in Democratic Republic of Congo",
+        "source": "USGS Volcano Hazards Program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.2000, -1.4000]
+      }
+    }
+  ]
+}
