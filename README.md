@@ -9,7 +9,7 @@ An interactive dashboard for analyzing and visualizing Enhanced Rock Weathering 
 - **Volcanic Areas Analysis**: Map and analyze volcanic regions and their characteristics
 - **Data Analysis Tools**: Comprehensive analysis of geological features, climate correlations, and mineral compositions
 - **Interactive Visualizations**: Dynamic charts and maps for better data understanding
-
+Added 
 ## Installation
 
 1. Clone the repository:
