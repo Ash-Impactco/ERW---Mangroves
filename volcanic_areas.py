@@ -91,6 +91,40 @@ def analyze_volcanic_regions(gdf):
     st.subheader("Elevation Distribution")
     st.line_chart(gdf['ELEV'].value_counts().sort_index())
 
+def get_arcgis_data(service_name):
+    base_url = "https://services2.arcgis.com/11XBiaBYA9Ep0yNJ/arcgis/rest/services"
+    url = f"{base_url}/{service_name}/FeatureServer/0/query"
+    
+    params = {
+        'where': '1=1',
+        'outFields': '*',
+        'geometryType': 'esriGeometryPolygon',
+        'spatialRel': 'esriSpatialRelIntersects',
+        'outSR': '4326',
+        'f': 'json'
+    }
+    
+    response = requests.get(url, params=params)
+    return response.json()
+
+def get_volcanic_data(query_params=None):
+    base_url = "https://services2.arcgis.com/11XBiaBYA9Ep0yNJ/arcgis/rest/services/Global_Volcanoes/FeatureServer/0/query"
+    
+    default_params = {
+        'where': '1=1',
+        'outFields': '*',
+        'geometryType': 'esriGeometryPoint',
+        'spatialRel': 'esriSpatialRelIntersects',
+        'outSR': '4326',
+        'f': 'json'
+    }
+    
+    if query_params:
+        default_params.update(query_params)
+    
+    response = requests.get(base_url, params=default_params)
+    return response.json()
+
 def main():
     st.title("Global Volcanic Areas Analysis")
     

@@ -1,0 +1,104 @@
+{
+    "type": "FeatureCollection",
+    "name": "GeologicalFeatures",
+    "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Basalt Deposits",
+                "type": "basalt",
+                "description": "Major basalt deposits worldwide",
+                "source": "USGS Mineral Resources Data"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [-122.4194, 37.7749],  // San Francisco area
+                            [-122.4194, 37.7749]
+                        ]
+                    ],
+                    [
+                        [
+                            [103.8198, 1.3521],   // Singapore area
+                            [103.8198, 1.3521]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Olivine Deposits",
+                "type": "olivine",
+                "description": "Major olivine deposits worldwide",
+                "source": "USGS Mineral Resources Data"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [151.2093, -33.8688],  // Sydney area
+                            [151.2093, -33.8688]
+                        ]
+                    ],
+                    [
+                        [
+                            [126.9780, 37.5665],   // Seoul area
+                            [126.9780, 37.5665]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Serpentine Deposits",
+                "type": "serpentine",
+                "description": "Major serpentine deposits worldwide",
+                "source": "USGS Mineral Resources Data"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [-74.0060, 40.7128],  // New York area
+                            [-74.0060, 40.7128]
+                        ]
+                    ],
+                    [
+                        [
+                            [139.6917, 35.6895],   // Tokyo area
+                            [139.6917, 35.6895]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Volcano",
+                "type": "volcano",
+                "description": "Major active volcanoes",
+                "source": "ArcGIS Volcano Locations"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [-155.282, 19.421],  // Kilauea, Hawaii
+                    [140.75, 35.89],     // Fuji, Japan
+                    [-114.41, 44.42],    // Yellowstone, USA
+                    [100.49, 6.16],      // Mount Merapi, Indonesia
+                    [-78.15, -1.83]      // Cotopaxi, Ecuador
+                ]
+            }
+        }
+    ]
+}
