@@ -7,9 +7,22 @@ An interactive dashboard for analyzing and visualizing Enhanced Rock Weathering 
 - **Interactive Geological Map**: Visualize geological features with detailed information about age, type, and mineral composition
 - **Climate Data Integration**: Overlay climate zones with temperature and rainfall information
 - **Volcanic Areas Analysis**: Map and analyze volcanic regions and their characteristics
+- **Mangrove Areas Visualization**: Interactive mapping of mangrove forests and their characteristics
+- **Web-based Interactive Map**: Accessible online visualization with layer switching capabilities
 - **Data Analysis Tools**: Comprehensive analysis of geological features, climate correlations, and mineral compositions
 - **Interactive Visualizations**: Dynamic charts and maps for better data understanding
-Added 
+
+## Online Visualization
+
+Access the interactive map visualization at: [https://ash-impactco.github.io/ERW/visualization/map_visualization.html](https://ash-impactco.github.io/ERW/visualization/map_visualization.html)
+
+Features of the interactive map:
+- Toggle between geological features, volcanic areas, and mangrove areas
+- Click on features to view detailed information
+- Responsive design that works on all devices
+- Interactive popups with feature details
+- Modern UI with easy layer switching
+
 ## Installation
 
 1. Clone the repository:
