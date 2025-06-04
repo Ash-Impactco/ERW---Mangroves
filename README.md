@@ -74,6 +74,13 @@ erw-dashboard/
 - branca
 - numpy
 
+- ## References
+
+- Alves, Faria, Simão. "Madeiran basalt characterization." Journal of Building Engineering, 2017. [PDF](https://research.unl.pt/ws/portalfiles/portal/3160539/RI_Alves_Faria_Simao_Madeiran_basalt_characterizarion_JBE2017_manuscript.pdf)
+- [basalts_flexible_calculation GitHub Repository](https://github.com/iozer/basalts_flexible_calculation)
+- PEESEgroup/Enhanced-Rock-Weathering: [GitHub Repository](https://github.com/PEESEgroup/Enhanced-Rock-Weathering)
+- Publicly available datasets and geological literature
+
 ## Contributing
 
 1. Fork the repository
